@@ -18,7 +18,7 @@
 The data used in this report was retrived from KAGGLE: https://www.kaggle.com/c/novozymes-enzyme-stability-prediction  
 Each data example consists of a protein sequence, a pH value and thermostability index. Predicting the thermostability is fundamental in enzyme engeneering for a wide variety of applications. Employing ML techniques is of great value to achieve the latter purpose as it saves time and money.
 
-### [Preprocessing] (https://github.com/vaniamiguel13/SIB/blob/main/SIB_Report.ipynb): 
+### [Preprocessing](https://github.com/vaniamiguel13/SIB/blob/main/SIB_Report.ipynb): 
 * Data processing
 * Identification of the train and test datasets
 * Treatment of Missing values
