@@ -14,6 +14,19 @@
 * Supervised Learning (shallow learning)
 * Deep learning
 
+## Repository Guide:
+* Files (folder) -> contains all generated files (.txt and .csv)
+* Experimental (folder) -> contains some experimental procedures and models (.ipynb)
+  * GBR_clust.ipynb (file) -> train distinct models based on a previous clustering analysis
+  * MLP_hyper.ipynb (file) -> optimize MLP hyper-parameters
+* feature_extraction.py (file) -> contains functions for feature extraction
+* C_P_FE.ipynb (file) -> context, preprocessing and feature extraction
+* AE.ipynb (file) -> exploratory analysis
+* UL.ipynb (file) -> unsupervised learning
+* SL.ipynb (file) -> supervised learning
+* DL_MLP.ipynb (file) -> deep learning (multilayer perceptron)
+* DL_CNN.ipynb (file) -> deep learning (convolutional neural network)
+
 ### [Contextualization](https://github.com/vaniamiguel13/SIB/blob/main/C_P_FE.ipynb):
 The data used in this report was retrived from KAGGLE: https://www.kaggle.com/c/novozymes-enzyme-stability-prediction  
 Each data example consists of a protein sequence, a pH value and thermostability index. Predicting the thermostability is fundamental in enzyme engeneering for a wide variety of applications. Employing ML techniques is of great value to achieve the latter purpose as it saves time and money.
@@ -54,4 +67,3 @@ Each data example consists of a protein sequence, a pH value and thermostability
 ## Credits:
 * Curricular Unit Slides
 * Deep Learning: https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/
-
