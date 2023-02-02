@@ -6,17 +6,21 @@
 * [Vânia Miguel](https://github.com/vaniamiguel13) | PG45971
 
 ## Repository Guide:
-* Files (folder) -> contains all generated files (.txt and .csv)
-* Experimental (folder) -> contains experimental procedures (.ipynb)
-  * GBR_clust.ipynb (file) -> train distinct models based on a previous clustering analysis
-  * MLP_hyper.ipynb (file) -> optimize MLP hyper-parameters
-* feature_extraction.py (file) -> contains functions for feature extraction
-* C_P_FE.ipynb (file) -> context, preprocessing and feature extraction
-* AE.ipynb (file) -> exploratory analysis
-* UL.ipynb (file) -> unsupervised learning
-* SL.ipynb (file) -> supervised learning
-* DL_MLP.ipynb (file) -> deep learning (multilayer perceptron)
-* DL_CNN.ipynb (file) -> deep learning (convolutional neural network)
+* **Files** (folder) -> contains files generated during the (.txt and .csv). The following files could not be uploaded due to their large size:
+  * **data_train.csv** -> training data (after feature extraction)
+  * **data_test.csv** -> test data (after feature extraction)
+  * **X_train_sc.csv** -> scaled training data (minmax scaler)
+  * **X_train_sc_z.csv** -> scaled training data (standard scaler)
+* **Experimental** (folder) -> contains experimental procedures (.ipynb)
+  * **GBR_clust.ipynb** (file) -> train distinct models based on a previous clustering analysis
+  * **MLP_hyper.ipynb** (file) -> optimize MLP hyper-parameters
+* **feature_extraction.py** (file) -> contains functions for feature extraction
+* **C_P_FE.ipynb** (file) -> context, preprocessing and feature extraction
+* **AE.ipynb** (file) -> exploratory analysis
+* **UL.ipynb** (file) -> unsupervised learning
+* **SL.ipynb** (file) -> supervised learning
+* **DL_MLP.ipynb** (file) -> deep learning (multilayer perceptron)
+* **DL_CNN.ipynb** (file) -> deep learning (convolutional neural network)
 
 ## Content Guide:
 * Contextualization
