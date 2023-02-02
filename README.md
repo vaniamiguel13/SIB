@@ -5,18 +5,9 @@
 * [Roberto Bullitta](https://github.com/rocobull) | PG45474
 * [Vânia Miguel](https://github.com/vaniamiguel13) | PG45971
 
-## Content Guide:
-* Contextualization
-* Preprocessing 
-* Feature Extraction
-* Exploratory Analysis
-* Unsupervised Learning
-* Supervised Learning (shallow learning)
-* Deep learning
-
 ## Repository Guide:
 * Files (folder) -> contains all generated files (.txt and .csv)
-* Experimental (folder) -> contains some experimental procedures and models (.ipynb)
+* Experimental (folder) -> contains experimental procedures (.ipynb)
   * GBR_clust.ipynb (file) -> train distinct models based on a previous clustering analysis
   * MLP_hyper.ipynb (file) -> optimize MLP hyper-parameters
 * feature_extraction.py (file) -> contains functions for feature extraction
@@ -26,6 +17,15 @@
 * SL.ipynb (file) -> supervised learning
 * DL_MLP.ipynb (file) -> deep learning (multilayer perceptron)
 * DL_CNN.ipynb (file) -> deep learning (convolutional neural network)
+
+## Content Guide:
+* Contextualization
+* Preprocessing 
+* Feature Extraction
+* Exploratory Analysis
+* Unsupervised Learning
+* Supervised Learning (shallow learning)
+* Deep learning
 
 ### [Contextualization](https://github.com/vaniamiguel13/SIB/blob/main/C_P_FE.ipynb):
 The data used in this report was retrived from KAGGLE: https://www.kaggle.com/c/novozymes-enzyme-stability-prediction  
