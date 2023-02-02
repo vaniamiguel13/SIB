@@ -6,7 +6,7 @@
 * [Vânia Miguel](https://github.com/vaniamiguel13) | PG45971
 
 ## Repository Guide:
-* **Files** (folder) -> contains files generated during the (.txt and .csv); the following files could not be uploaded due to their large size:
+* **Files** (folder) -> contains files generated during the development of this project (.txt and .csv); the following files could not be uploaded due to their large size:
   * **data_train.csv** -> training data (after feature extraction)
   * **data_test.csv** -> test data (after feature extraction)
   * **X_train_sc.csv** -> scaled training data (minmax scaler)
