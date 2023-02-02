@@ -1,7 +1,7 @@
 # SIB
 
 ## Authors:
-* [António Duarte]() | PG45464
+* [António Duarte](https://github.com/anccduarte) | PG45464
 * [Roberto Bullitta](https://github.com/rocobull) | PG45474
 * [Vânia Miguel](https://github.com/vaniamiguel13) | PG45971
 
