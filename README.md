@@ -39,9 +39,13 @@ Each data example consists of a protein sequence, a pH value and thermostability
 * K-means
 
 ### [Supervised Learning](https://github.com/vaniamiguel13/SIB/blob/main/SL.ipynb)
-* Cross-validation
-* Hyper-parameter tuning
-* Model Selection
+* Cross-validation, Hyper-parameter tuning, and Model selection
+* Linear Regression
+* K-Nearest Neighbors
+* Support Vector Machine
+* Random Forest
+* Adaptive Boosting
+* Gradient Boosting
 
 ### Deep learning
 * [MLP](https://github.com/vaniamiguel13/SIB/blob/main/DL_MLP.ipynb)
