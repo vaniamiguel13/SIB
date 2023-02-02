@@ -46,7 +46,7 @@ Each data example consists of a protein sequence, a pH value and thermostability
 ### Deep learning
 * [MLP](https://github.com/vaniamiguel13/SIB/blob/main/DL_MLP.ipynb)
 * [CNN](https://github.com/vaniamiguel13/SIB/blob/main/DL_CNN.ipynb)
-* * [One-Hot Encoding](https://github.com/vaniamiguel13/SIB/blob/main/one_hot.ipynb)
+  * [One-Hot Encoding](https://github.com/vaniamiguel13/SIB/blob/main/one_hot.ipynb)
 
 ## Credits:
 * Curricular Unit Slides
