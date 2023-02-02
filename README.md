@@ -1,9 +1,9 @@
 # SIB
 
 ## Authors:
-* António Duarte | PG45464
-* Roberto Bullitta | PG45474
-* Vânia Miguel | PG45971
+* [António Duarte]() | PG45464
+* [Roberto Bullitta](https://github.com/rocobull) | PG45474
+* [Vânia Miguel](https://github.com/vaniamiguel13) | PG45971
 
 ## Content Guide:
 * Contextualization
